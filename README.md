@@ -64,6 +64,9 @@ Streamlit App
 The application supports image detection, video detection, tracking, counting, and a detection dashboard.
 
 
+📁 Full Project:
+[(https://drive.google.com/drive/folders/1wg3ufEsJMX5L4OXMa2YyUbAYIYmGWhnB?usp=sharing)]
+
 Dataset Source
 
 Roboflow Self Driving Car Dataset:
